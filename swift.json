@@ -1,6 +1,6 @@
 {
         "name": "Cardano Swift Pool",
-        "description": "No Fees! Reliable and Future-Ready Stake Pool.",
+        "description": "No Fees! Reliable and Future-Ready Stake Pool. Rewards even if no block is produced in an epoch! Visit our website for more details.",
         "ticker": "SWIFT",
-        "homepage": ""
+        "homepage": "https://cardanoswiftpool.lvm10r11.keenetic.link"
 }
