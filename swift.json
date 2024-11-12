@@ -1,6 +1,6 @@
 {
         "name": "Cardano Swift Pool",
-        "description": "No Fees! Reliable and Future-Ready Stake Pool. Rewards even if no block is produced in an epoch! Visit our website for more details.",
+        "description": "Bonus program: if no blocks are mined in an epoch, we assume one block was mined, and rewards (ADA) are distributed directly to delegators' addresses. More info: https://cardanoswiftpool.lvm10r11.keenetic.link/?p=75",
         "ticker": "SWIFT",
         "homepage": "https://cardanoswiftpool.lvm10r11.keenetic.link",
         "extended": "https://cardanoswiftpool.github.io/extended-metadata.json"
